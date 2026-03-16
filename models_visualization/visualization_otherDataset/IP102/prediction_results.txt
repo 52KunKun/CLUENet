@@ -1,0 +1,4620 @@
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: tile_roof possibility: 57.463%
+top3 ==> Top 3 Predictions:
+    1. tile_roof - 57.463%
+    2. bookshop - 21.167%
+    3. tobacco_shop - 18.192%
+this image true class is fire_screen
+==> Generated image is saved to: images/CLUA_tiny/n0334703700000760_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cannon possibility: 84.980%
+top3 ==> Top 3 Predictions:
+    1. cannon - 84.980%
+    2. tank - 14.611%
+    3. missile - 0.169%
+this image true class is tank
+==> Generated image is saved to: images/CLUA_tiny/n0438903300000630_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Gordon_setter possibility: 67.008%
+top3 ==> Top 3 Predictions:
+    1. Gordon_setter - 67.008%
+    2. Newfoundland - 14.139%
+    3. Tibetan_mastiff - 12.187%
+this image true class is miniature_poodle
+==> Generated image is saved to: images/CLUA_tiny/n0211371200000520_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ear possibility: 28.207%
+top3 ==> Top 3 Predictions:
+    1. ear - 28.207%
+    2. hotdog - 16.006%
+    3. horizontal_bar - 10.748%
+this image true class is pencil_box
+==> Generated image is saved to: images/CLUA_tiny/n0390861800000493_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: horizontal_bar possibility: 24.617%
+top3 ==> Top 3 Predictions:
+    1. horizontal_bar - 24.617%
+    2. reel - 21.580%
+    3. snorkel - 19.926%
+this image true class is reel
+==> Generated image is saved to: images/CLUA_tiny/n0406747200000614_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 83.835%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 83.835%
+    2. robin - 12.690%
+    3. worm_fence - 1.946%
+this image true class is worm_fence
+==> Generated image is saved to: images/CLUA_tiny/n0460464400000290_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: wok possibility: 78.776%
+top3 ==> Top 3 Predictions:
+    1. wok - 78.776%
+    2. beer_bottle - 3.554%
+    3. tobacco_shop - 2.549%
+this image true class is tobacco_shop
+==> Generated image is saved to: images/CLUA_tiny/n0444325700001023_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Saluki possibility: 84.767%
+top3 ==> Top 3 Predictions:
+    1. Saluki - 84.767%
+    2. golden_retriever - 15.216%
+    3. Ibizan_hound - 0.006%
+this image true class is golden_retriever
+==> Generated image is saved to: images/CLUA_tiny/n0209960100001013_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: king_crab possibility: 38.598%
+top3 ==> Top 3 Predictions:
+    1. king_crab - 38.598%
+    2. hotdog - 19.259%
+    3. ear - 18.831%
+this image true class is hotdog
+==> Generated image is saved to: images/CLUA_tiny/n0769753700001031_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: missile possibility: 36.263%
+top3 ==> Top 3 Predictions:
+    1. missile - 36.263%
+    2. bookshop - 12.051%
+    3. dome - 9.758%
+this image true class is tile_roof
+==> Generated image is saved to: images/CLUA_tiny/n0443565300000153_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: missile possibility: 38.400%
+top3 ==> Top 3 Predictions:
+    1. missile - 38.400%
+    2. reel - 28.045%
+    3. miniskirt - 6.442%
+this image true class is boxer
+==> Generated image is saved to: images/CLUA_tiny/n0210808900000809_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: mixing_bowl possibility: 43.668%
+top3 ==> Top 3 Predictions:
+    1. mixing_bowl - 43.668%
+    2. clog - 42.413%
+    3. dishrag - 5.506%
+this image true class is clog
+==> Generated image is saved to: images/CLUA_tiny/n0304769000000449_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: miniskirt possibility: 30.208%
+top3 ==> Top 3 Predictions:
+    1. miniskirt - 30.208%
+    2. ashcan - 24.795%
+    3. barrel - 5.587%
+this image true class is poncho
+==> Generated image is saved to: images/CLUA_tiny/n0398087400000726_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 27.348%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 27.348%
+    2. goose - 20.305%
+    3. three-toed_sloth - 19.091%
+this image true class is coral_reef
+==> Generated image is saved to: images/CLUA_tiny/n0925647900000747_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Newfoundland possibility: 82.287%
+top3 ==> Top 3 Predictions:
+    1. Newfoundland - 82.287%
+    2. crate - 9.009%
+    3. carton - 4.485%
+this image true class is crate
+==> Generated image is saved to: images/CLUA_tiny/n0312792500000852_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: hair_slide possibility: 76.252%
+top3 ==> Top 3 Predictions:
+    1. hair_slide - 76.252%
+    2. three-toed_sloth - 19.452%
+    3. beer_bottle - 0.651%
+this image true class is three-toed_sloth
+==> Generated image is saved to: images/CLUA_tiny/n0245740800000621_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: chime possibility: 73.396%
+top3 ==> Top 3 Predictions:
+    1. chime - 73.396%
+    2. barrel - 10.564%
+    3. wok - 6.138%
+this image true class is frying_pan
+==> Generated image is saved to: images/CLUA_tiny/n0340023100000424_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: catamaran possibility: 34.742%
+top3 ==> Top 3 Predictions:
+    1. catamaran - 34.742%
+    2. dalmatian - 32.771%
+    3. yawl - 13.726%
+this image true class is reel
+==> Generated image is saved to: images/CLUA_tiny/n0406747200000286_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: unicycle possibility: 59.516%
+top3 ==> Top 3 Predictions:
+    1. unicycle - 59.516%
+    2. stage - 29.447%
+    3. scoreboard - 8.230%
+this image true class is stage
+==> Generated image is saved to: images/CLUA_tiny/n0429656200000275_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: wok possibility: 59.662%
+top3 ==> Top 3 Predictions:
+    1. wok - 59.662%
+    2. frying_pan - 40.078%
+    3. mixing_bowl - 0.223%
+this image true class is frying_pan
+==> Generated image is saved to: images/CLUA_tiny/n0340023100001137_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 41.758%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 41.758%
+    2. three-toed_sloth - 26.070%
+    3. ant - 14.182%
+this image true class is three-toed_sloth
+==> Generated image is saved to: images/CLUA_tiny/n0245740800000061_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: reel possibility: 72.805%
+top3 ==> Top 3 Predictions:
+    1. reel - 72.805%
+    2. prayer_rug - 16.061%
+    3. combination_lock - 7.409%
+this image true class is prayer_rug
+==> Generated image is saved to: images/CLUA_tiny/n0399819400000998_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: electric_guitar possibility: 61.317%
+top3 ==> Top 3 Predictions:
+    1. electric_guitar - 61.317%
+    2. wok - 23.775%
+    3. cocktail_shaker - 4.879%
+this image true class is wok
+==> Generated image is saved to: images/CLUA_tiny/n0459674200000530_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: boxer possibility: 50.486%
+top3 ==> Top 3 Predictions:
+    1. boxer - 50.486%
+    2. ashcan - 24.633%
+    3. French_bulldog - 6.683%
+this image true class is ashcan
+==> Generated image is saved to: images/CLUA_tiny/n0274717700000781_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ashcan possibility: 38.224%
+top3 ==> Top 3 Predictions:
+    1. ashcan - 38.224%
+    2. barrel - 25.875%
+    3. file - 23.094%
+this image true class is file
+==> Generated image is saved to: images/CLUA_tiny/n0333714000000814_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: fire_screen possibility: 44.595%
+top3 ==> Top 3 Predictions:
+    1. fire_screen - 44.595%
+    2. chime - 32.609%
+    3. prayer_rug - 6.654%
+this image true class is carousel
+==> Generated image is saved to: images/CLUA_tiny/n0296619300000759_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: lipstick possibility: 87.741%
+top3 ==> Top 3 Predictions:
+    1. lipstick - 87.741%
+    2. mixing_bowl - 8.048%
+    3. carton - 1.559%
+this image true class is clog
+==> Generated image is saved to: images/CLUA_tiny/n0304769000000640_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ant possibility: 37.723%
+top3 ==> Top 3 Predictions:
+    1. ant - 37.723%
+    2. coral_reef - 23.872%
+    3. mixing_bowl - 10.729%
+this image true class is ashcan
+==> Generated image is saved to: images/CLUA_tiny/n0274717700000811_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: school_bus possibility: 41.511%
+top3 ==> Top 3 Predictions:
+    1. school_bus - 41.511%
+    2. frying_pan - 18.505%
+    3. reel - 9.634%
+this image true class is chime
+==> Generated image is saved to: images/CLUA_tiny/n0301716800000133_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: malamute possibility: 46.505%
+top3 ==> Top 3 Predictions:
+    1. malamute - 46.505%
+    2. Arctic_fox - 29.269%
+    3. Newfoundland - 14.872%
+this image true class is Newfoundland
+==> Generated image is saved to: images/CLUA_tiny/n0211127700000374_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: upright possibility: 53.001%
+top3 ==> Top 3 Predictions:
+    1. upright - 53.001%
+    2. organ - 46.790%
+    3. slot - 0.038%
+this image true class is organ
+==> Generated image is saved to: images/CLUA_tiny/n0385406500000752_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dishrag possibility: 49.510%
+top3 ==> Top 3 Predictions:
+    1. dishrag - 49.510%
+    2. poncho - 46.454%
+    3. miniskirt - 1.273%
+this image true class is ladybug
+==> Generated image is saved to: images/CLUA_tiny/n0216545600000782_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 32.749%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 32.749%
+    2. orange - 24.983%
+    3. crate - 10.653%
+this image true class is ear
+==> Generated image is saved to: images/CLUA_tiny/n1313361300001090_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: slot possibility: 98.239%
+top3 ==> Top 3 Predictions:
+    1. slot - 98.239%
+    2. scoreboard - 1.727%
+    3. tobacco_shop - 0.029%
+this image true class is scoreboard
+==> Generated image is saved to: images/CLUA_tiny/n0414981300000718_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: worm_fence possibility: 42.221%
+top3 ==> Top 3 Predictions:
+    1. worm_fence - 42.221%
+    2. white_wolf - 22.719%
+    3. ashcan - 12.042%
+this image true class is barrel
+==> Generated image is saved to: images/CLUA_tiny/n0279516900000565_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ashcan possibility: 84.826%
+top3 ==> Top 3 Predictions:
+    1. ashcan - 84.826%
+    2. tank - 10.996%
+    3. garbage_truck - 2.994%
+this image true class is garbage_truck
+==> Generated image is saved to: images/CLUA_tiny/n0341704200001002_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: school_bus possibility: 41.000%
+top3 ==> Top 3 Predictions:
+    1. school_bus - 41.000%
+    2. unicycle - 22.565%
+    3. stage - 12.557%
+this image true class is miniskirt
+==> Generated image is saved to: images/CLUA_tiny/n0377043900000398_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ashcan possibility: 58.897%
+top3 ==> Top 3 Predictions:
+    1. ashcan - 58.897%
+    2. garbage_truck - 32.319%
+    3. slot - 2.577%
+this image true class is garbage_truck
+==> Generated image is saved to: images/CLUA_tiny/n0341704200000963_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: wok possibility: 71.821%
+top3 ==> Top 3 Predictions:
+    1. wok - 71.821%
+    2. file - 15.521%
+    3. frying_pan - 3.584%
+this image true class is cocktail_shaker
+==> Generated image is saved to: images/CLUA_tiny/n0306224500000410_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cocktail_shaker possibility: 55.934%
+top3 ==> Top 3 Predictions:
+    1. cocktail_shaker - 55.934%
+    2. cuirass - 31.017%
+    3. vase - 6.594%
+this image true class is cuirass
+==> Generated image is saved to: images/CLUA_tiny/n0314621900001127_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Newfoundland possibility: 98.256%
+top3 ==> Top 3 Predictions:
+    1. Newfoundland - 98.256%
+    2. Tibetan_mastiff - 0.938%
+    3. miniature_poodle - 0.528%
+this image true class is miniature_poodle
+==> Generated image is saved to: images/CLUA_tiny/n0211371200000019_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: tobacco_shop possibility: 89.408%
+top3 ==> Top 3 Predictions:
+    1. tobacco_shop - 89.408%
+    2. bookshop - 10.577%
+    3. street_sign - 0.012%
+this image true class is bookshop
+==> Generated image is saved to: images/CLUA_tiny/n0287152500000591_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cannon possibility: 84.407%
+top3 ==> Top 3 Predictions:
+    1. cannon - 84.407%
+    2. ashcan - 6.815%
+    3. iPod - 2.483%
+this image true class is tank
+==> Generated image is saved to: images/CLUA_tiny/n0438903300000301_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: horizontal_bar possibility: 55.704%
+top3 ==> Top 3 Predictions:
+    1. horizontal_bar - 55.704%
+    2. carton - 17.937%
+    3. upright - 10.939%
+this image true class is miniskirt
+==> Generated image is saved to: images/CLUA_tiny/n0377043900000710_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: electric_guitar possibility: 43.491%
+top3 ==> Top 3 Predictions:
+    1. electric_guitar - 43.491%
+    2. cuirass - 17.915%
+    3. oboe - 9.498%
+this image true class is komondor
+==> Generated image is saved to: images/CLUA_tiny/n0210550500000366_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: chime possibility: 45.834%
+top3 ==> Top 3 Predictions:
+    1. chime - 45.834%
+    2. dome - 32.436%
+    3. cannon - 6.833%
+this image true class is frying_pan
+==> Generated image is saved to: images/CLUA_tiny/n0340023100000198_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: wok possibility: 31.797%
+top3 ==> Top 3 Predictions:
+    1. wok - 31.797%
+    2. cocktail_shaker - 18.708%
+    3. hourglass - 12.178%
+this image true class is black-footed_ferret
+==> Generated image is saved to: images/CLUA_tiny/n0244348400000340_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 61.597%
+top3 ==> Top 3 Predictions:
+    1. cliff - 61.597%
+    2. meerkat - 34.477%
+    3. Arctic_fox - 1.009%
+this image true class is meerkat
+==> Generated image is saved to: images/CLUA_tiny/n0213844100000768_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: bookshop possibility: 58.169%
+top3 ==> Top 3 Predictions:
+    1. bookshop - 58.169%
+    2. garbage_truck - 16.560%
+    3. wok - 5.295%
+this image true class is cannon
+==> Generated image is saved to: images/CLUA_tiny/n0295082600000479_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: school_bus possibility: 26.363%
+top3 ==> Top 3 Predictions:
+    1. school_bus - 26.363%
+    2. street_sign - 22.718%
+    3. catamaran - 10.157%
+this image true class is catamaran
+==> Generated image is saved to: images/CLUA_tiny/n0298179200001222_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: organ possibility: 70.063%
+top3 ==> Top 3 Predictions:
+    1. organ - 70.063%
+    2. photocopier - 21.492%
+    3. slot - 2.220%
+this image true class is photocopier
+==> Generated image is saved to: images/CLUA_tiny/n0392467900000319_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: meerkat possibility: 89.463%
+top3 ==> Top 3 Predictions:
+    1. meerkat - 89.463%
+    2. miniature_poodle - 6.442%
+    3. komondor - 1.681%
+this image true class is black-footed_ferret
+==> Generated image is saved to: images/CLUA_tiny/n0244348400000138_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: golden_retriever possibility: 82.387%
+top3 ==> Top 3 Predictions:
+    1. golden_retriever - 82.387%
+    2. Tibetan_mastiff - 7.838%
+    3. Newfoundland - 3.710%
+this image true class is Newfoundland
+==> Generated image is saved to: images/CLUA_tiny/n0211127700000226_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: aircraft_carrier possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. aircraft_carrier - 99.995%
+    2. carousel - 0.002%
+    3. cliff - 0.001%
+this image true class is catamaran
+==> Generated image is saved to: images/CLUA_tiny/n0298179200000307_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: poncho possibility: 36.026%
+top3 ==> Top 3 Predictions:
+    1. poncho - 36.026%
+    2. lipstick - 22.190%
+    3. miniskirt - 11.849%
+this image true class is clog
+==> Generated image is saved to: images/CLUA_tiny/n0304769000000168_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: poncho possibility: 96.362%
+top3 ==> Top 3 Predictions:
+    1. poncho - 96.362%
+    2. miniskirt - 1.311%
+    3. tile_roof - 0.784%
+this image true class is miniskirt
+==> Generated image is saved to: images/CLUA_tiny/n0377043900000529_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Gordon_setter possibility: 99.838%
+top3 ==> Top 3 Predictions:
+    1. Gordon_setter - 99.838%
+    2. Saluki - 0.160%
+    3. boxer - 0.001%
+this image true class is Tibetan_mastiff
+==> Generated image is saved to: images/CLUA_tiny/n0210855100001044_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: parallel_bars possibility: 56.694%
+top3 ==> Top 3 Predictions:
+    1. parallel_bars - 56.694%
+    2. horizontal_bar - 25.106%
+    3. scoreboard - 4.553%
+this image true class is horizontal_bar
+==> Generated image is saved to: images/CLUA_tiny/n0353578000000278_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: horizontal_bar possibility: 53.708%
+top3 ==> Top 3 Predictions:
+    1. horizontal_bar - 53.708%
+    2. parallel_bars - 46.292%
+    3. scoreboard - 0.000%
+this image true class is parallel_bars
+==> Generated image is saved to: images/CLUA_tiny/n0388860500000669_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: stage possibility: 69.770%
+top3 ==> Top 3 Predictions:
+    1. stage - 69.770%
+    2. horizontal_bar - 9.815%
+    3. carton - 3.305%
+this image true class is reel
+==> Generated image is saved to: images/CLUA_tiny/n0406747200000420_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Saluki possibility: 67.736%
+top3 ==> Top 3 Predictions:
+    1. Saluki - 67.736%
+    2. Ibizan_hound - 13.934%
+    3. lion - 8.847%
+this image true class is lion
+==> Generated image is saved to: images/CLUA_tiny/n0212916500000664_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: school_bus possibility: 91.868%
+top3 ==> Top 3 Predictions:
+    1. school_bus - 91.868%
+    2. slot - 3.047%
+    3. tobacco_shop - 1.394%
+this image true class is crate
+==> Generated image is saved to: images/CLUA_tiny/n0312792500001105_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: mixing_bowl possibility: 61.950%
+top3 ==> Top 3 Predictions:
+    1. mixing_bowl - 61.950%
+    2. jellyfish - 12.110%
+    3. consomme - 10.710%
+this image true class is consomme
+==> Generated image is saved to: images/CLUA_tiny/n0758411000000959_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: French_bulldog possibility: 64.607%
+top3 ==> Top 3 Predictions:
+    1. French_bulldog - 64.607%
+    2. golden_retriever - 33.862%
+    3. boxer - 0.568%
+this image true class is boxer
+==> Generated image is saved to: images/CLUA_tiny/n0210808900000120_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: clog possibility: 79.076%
+top3 ==> Top 3 Predictions:
+    1. clog - 79.076%
+    2. holster - 11.798%
+    3. cannon - 4.068%
+this image true class is ashcan
+==> Generated image is saved to: images/CLUA_tiny/n0274717700001165_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: coral_reef possibility: 45.995%
+top3 ==> Top 3 Predictions:
+    1. coral_reef - 45.995%
+    2. snorkel - 22.227%
+    3. jellyfish - 20.544%
+this image true class is jellyfish
+==> Generated image is saved to: images/CLUA_tiny/n0191074700001072_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: tobacco_shop possibility: 86.258%
+top3 ==> Top 3 Predictions:
+    1. tobacco_shop - 86.258%
+    2. bookshop - 7.987%
+    3. carousel - 1.810%
+this image true class is vase
+==> Generated image is saved to: images/CLUA_tiny/n0452216800000582_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: bookshop possibility: 73.859%
+top3 ==> Top 3 Predictions:
+    1. bookshop - 73.859%
+    2. wok - 15.056%
+    3. tobacco_shop - 8.185%
+this image true class is wok
+==> Generated image is saved to: images/CLUA_tiny/n0459674200001036_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: stage possibility: 53.813%
+top3 ==> Top 3 Predictions:
+    1. stage - 53.813%
+    2. oboe - 32.964%
+    3. electric_guitar - 5.256%
+this image true class is oboe
+==> Generated image is saved to: images/CLUA_tiny/n0383889900000617_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: organ possibility: 55.116%
+top3 ==> Top 3 Predictions:
+    1. organ - 55.116%
+    2. combination_lock - 14.820%
+    3. scoreboard - 12.717%
+this image true class is carton
+==> Generated image is saved to: images/CLUA_tiny/n0297135600000324_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: bookshop possibility: 86.126%
+top3 ==> Top 3 Predictions:
+    1. bookshop - 86.126%
+    2. tobacco_shop - 10.532%
+    3. ashcan - 2.403%
+this image true class is tobacco_shop
+==> Generated image is saved to: images/CLUA_tiny/n0444325700000321_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: hair_slide possibility: 30.126%
+top3 ==> Top 3 Predictions:
+    1. hair_slide - 30.126%
+    2. dugong - 23.244%
+    3. goose - 20.542%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000086_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Tibetan_mastiff possibility: 16.192%
+top3 ==> Top 3 Predictions:
+    1. Tibetan_mastiff - 16.192%
+    2. wok - 10.974%
+    3. poncho - 10.797%
+this image true class is black-footed_ferret
+==> Generated image is saved to: images/CLUA_tiny/n0244348400001014_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: golden_retriever possibility: 31.901%
+top3 ==> Top 3 Predictions:
+    1. golden_retriever - 31.901%
+    2. dalmatian - 21.996%
+    3. Saluki - 21.810%
+this image true class is French_bulldog
+==> Generated image is saved to: images/CLUA_tiny/n0210891500000190_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: lipstick possibility: 50.628%
+top3 ==> Top 3 Predictions:
+    1. lipstick - 50.628%
+    2. cannon - 40.618%
+    3. hair_slide - 2.046%
+this image true class is beer_bottle
+==> Generated image is saved to: images/CLUA_tiny/n0282342800001242_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: three-toed_sloth possibility: 55.892%
+top3 ==> Top 3 Predictions:
+    1. three-toed_sloth - 55.892%
+    2. house_finch - 22.363%
+    3. toucan - 16.228%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900001101_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: tobacco_shop possibility: 89.420%
+top3 ==> Top 3 Predictions:
+    1. tobacco_shop - 89.420%
+    2. file - 8.202%
+    3. bookshop - 1.038%
+this image true class is combination_lock
+==> Generated image is saved to: images/CLUA_tiny/n0307537000000771_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: worm_fence possibility: 52.541%
+top3 ==> Top 3 Predictions:
+    1. worm_fence - 52.541%
+    2. cuirass - 9.871%
+    3. Saluki - 7.278%
+this image true class is parallel_bars
+==> Generated image is saved to: images/CLUA_tiny/n0388860500000677_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: frying_pan possibility: 69.855%
+top3 ==> Top 3 Predictions:
+    1. frying_pan - 69.855%
+    2. wok - 23.429%
+    3. consomme - 4.587%
+this image true class is wok
+==> Generated image is saved to: images/CLUA_tiny/n0459674200000568_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: carton possibility: 45.540%
+top3 ==> Top 3 Predictions:
+    1. carton - 45.540%
+    2. black-footed_ferret - 42.077%
+    3. malamute - 11.321%
+this image true class is black-footed_ferret
+==> Generated image is saved to: images/CLUA_tiny/n0244348400000052_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: golden_retriever possibility: 33.728%
+top3 ==> Top 3 Predictions:
+    1. golden_retriever - 33.728%
+    2. dalmatian - 18.067%
+    3. malamute - 13.147%
+this image true class is boxer
+==> Generated image is saved to: images/CLUA_tiny/n0210808900000410_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: organ possibility: 31.328%
+top3 ==> Top 3 Predictions:
+    1. organ - 31.328%
+    2. miniskirt - 20.512%
+    3. carousel - 11.671%
+this image true class is chime
+==> Generated image is saved to: images/CLUA_tiny/n0301716800000984_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: black-footed_ferret possibility: 58.654%
+top3 ==> Top 3 Predictions:
+    1. black-footed_ferret - 58.654%
+    2. miniature_poodle - 22.748%
+    3. dalmatian - 16.324%
+this image true class is boxer
+==> Generated image is saved to: images/CLUA_tiny/n0210808900000388_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.999%
+    2. clog - 0.000%
+    3. reel - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.961%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.961%
+    2. robin - 0.039%
+    3. cliff - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. robin - 0.001%
+    3. meerkat - 0.001%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.989%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.989%
+    2. robin - 0.010%
+    3. lion - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.900%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.900%
+    2. ear - 0.079%
+    3. vase - 0.013%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 58.569%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 58.569%
+    2. ear - 30.686%
+    3. frying_pan - 1.560%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900001046_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. worm_fence - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. goose - 100.000%
+    2. toucan - 0.000%
+    3. robin - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000791_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.942%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.942%
+    2. robin - 0.056%
+    3. three-toed_sloth - 0.001%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000019_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.983%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.983%
+    2. ear - 0.013%
+    3. crate - 0.002%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. ear - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 52.127%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 52.127%
+    2. robin - 29.917%
+    3. toucan - 8.341%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900001101_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 85.564%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 85.564%
+    2. toucan - 12.842%
+    3. horizontal_bar - 0.405%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000787_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 29.516%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 29.516%
+    2. ear - 24.311%
+    3. bolete - 22.563%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900001046_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. Newfoundland - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.999%
+    2. Arctic_fox - 0.000%
+    3. Ibizan_hound - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.999%
+    2. Arctic_fox - 0.000%
+    3. Ibizan_hound - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. goose - 100.000%
+    2. toucan - 0.000%
+    3. white_wolf - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000791_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.983%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.983%
+    2. ear - 0.013%
+    3. crate - 0.002%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. ear - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 52.127%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 52.127%
+    2. robin - 29.917%
+    3. toucan - 8.341%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900001101_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 85.564%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 85.564%
+    2. toucan - 12.842%
+    3. horizontal_bar - 0.405%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000787_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 29.516%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 29.516%
+    2. ear - 24.311%
+    3. bolete - 22.563%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900001046_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. Newfoundland - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.999%
+    2. Arctic_fox - 0.000%
+    3. Ibizan_hound - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.999%
+    2. Arctic_fox - 0.000%
+    3. Ibizan_hound - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. goose - 100.000%
+    2. toucan - 0.000%
+    3. white_wolf - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000791_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.365%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.365%
+    2. Saluki - 0.239%
+    3. worm_fence - 0.215%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000157_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. toucan - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. ladybug - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. harvestman - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_small/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_small_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.999%
+    2. ear - 0.001%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_small/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_mini_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.989%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.989%
+    2. robin - 0.011%
+    3. spider_web - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_mini/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_mini_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. meerkat - 0.000%
+    3. ear - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_mini/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_mini_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_mini/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_mini_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.990%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.990%
+    2. ear - 0.009%
+    3. cannon - 0.001%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_mini/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 98.001%
+top3 ==> Top 3 Predictions:
+    1. cliff - 98.001%
+    2. house_finch - 1.216%
+    3. robin - 0.424%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000743_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 71.614%
+top3 ==> Top 3 Predictions:
+    1. dugong - 71.614%
+    2. snorkel - 28.300%
+    3. coral_reef - 0.079%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000496_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: Walker_hound possibility: 80.520%
+top3 ==> Top 3 Predictions:
+    1. Walker_hound - 80.520%
+    2. Saluki - 11.336%
+    3. Ibizan_hound - 8.134%
+this image true class is Walker_hound
+==> Generated image is saved to: images/CLUA_tiny/n0208986700000157_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.992%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.992%
+    2. Ibizan_hound - 0.007%
+    3. toucan - 0.001%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: frying_pan possibility: 38.882%
+top3 ==> Top 3 Predictions:
+    1. frying_pan - 38.882%
+    2. coral_reef - 38.784%
+    3. ashcan - 9.217%
+this image true class is coral_reef
+==> Generated image is saved to: images/CLUA_tiny/n0925647900000750_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.348%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.348%
+    2. snorkel - 0.149%
+    3. catamaran - 0.089%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000893_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 98.001%
+top3 ==> Top 3 Predictions:
+    1. cliff - 98.001%
+    2. house_finch - 1.216%
+    3. robin - 0.424%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000743_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.968%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.968%
+    2. worm_fence - 0.010%
+    3. barrel - 0.005%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000643_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: solar_dish possibility: 99.982%
+top3 ==> Top 3 Predictions:
+    1. solar_dish - 99.982%
+    2. worm_fence - 0.005%
+    3. street_sign - 0.004%
+this image true class is solar_dish
+==> Generated image is saved to: images/CLUA_tiny/n0425813800000456_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: horizontal_bar possibility: 45.928%
+top3 ==> Top 3 Predictions:
+    1. horizontal_bar - 45.928%
+    2. green_mamba - 8.020%
+    3. ear - 7.595%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900001046_wrong/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.992%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.992%
+    2. Ibizan_hound - 0.007%
+    3. toucan - 0.001%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. goose - 100.000%
+    2. toucan - 0.000%
+    3. house_finch - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000791_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ladybug possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. ladybug - 100.000%
+    2. harvestman - 0.000%
+    3. orange - 0.000%
+this image true class is ladybug
+==> Generated image is saved to: images/CLUA_tiny/n0216545600001051_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. goose - 100.000%
+    2. toucan - 0.000%
+    3. house_finch - 0.000%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000791_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000777_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 71.614%
+top3 ==> Top 3 Predictions:
+    1. dugong - 71.614%
+    2. snorkel - 28.300%
+    3. coral_reef - 0.079%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000496_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: goose possibility: 99.992%
+top3 ==> Top 3 Predictions:
+    1. goose - 99.992%
+    2. Ibizan_hound - 0.007%
+    3. toucan - 0.001%
+this image true class is goose
+==> Generated image is saved to: images/CLUA_tiny/n0185567200000308_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: white_wolf possibility: 99.964%
+top3 ==> Top 3 Predictions:
+    1. white_wolf - 99.964%
+    2. Tibetan_mastiff - 0.024%
+    3. Arctic_fox - 0.007%
+this image true class is white_wolf
+==> Generated image is saved to: images/CLUA_tiny/n0211454800000549_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000016_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_28cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_32cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. jellyfish - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000042_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/CLUA_tiny/n0153282900000470_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/CLUA_tiny/n0207436700000961_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/CLUA_tiny/n0174993900000687_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/CLUA_tiny/n0924646400000548_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_5cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_8cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_10cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_14cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_18cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/CLUA_tiny/n0184338300000156_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ladybug possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. ladybug - 100.000%
+    2. harvestman - 0.000%
+    3. orange - 0.000%
+this image true class is ladybug
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_3cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ladybug possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. ladybug - 100.000%
+    2. harvestman - 0.000%
+    3. orange - 0.000%
+this image true class is ladybug
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. goose - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000016_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.999%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.999%
+    2. robin - 0.001%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000042_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.998%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.998%
+    2. ladybug - 0.002%
+    3. ant - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000470_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.995%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.995%
+    2. ear - 0.005%
+    3. vase - 0.000%
+this image true class is green_mamba
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000687_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: toucan possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. toucan - 100.000%
+    2. goose - 0.000%
+    3. robin - 0.000%
+this image true class is toucan
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0184338300000156_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dugong possibility: 92.401%
+top3 ==> Top 3 Predictions:
+    1. dugong - 92.401%
+    2. snorkel - 3.700%
+    3. coral_reef - 2.234%
+this image true class is dugong
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0207436700000961_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: cliff possibility: 99.929%
+top3 ==> Top 3 Predictions:
+    1. cliff - 99.929%
+    2. Newfoundland - 0.034%
+    3. snorkel - 0.008%
+this image true class is cliff
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0924646400000548_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: ladybug possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. ladybug - 100.000%
+    2. harvestman - 0.000%
+    3. orange - 0.000%
+this image true class is ladybug
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0216545600001051_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 100.000%
+    2. robin - 0.000%
+    3. worm_fence - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000040_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 76.445%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 76.445%
+    2. tile_roof - 23.257%
+    3. dome - 0.249%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900000179_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: house_finch possibility: 99.997%
+top3 ==> Top 3 Predictions:
+    1. house_finch - 99.997%
+    2. robin - 0.003%
+    3. ladybug - 0.000%
+this image true class is house_finch
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0153282900001086_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: green_mamba possibility: 99.773%
+top3 ==> Top 3 Predictions:
+    1. green_mamba - 99.773%
+    2. combination_lock - 0.067%
+    3. nematode - 0.052%
+this image true class is green_mamba
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0174993900000260_right/all_stages_24cluster.png
+
+
+==> Loaded checkpoint ./CLUA_tiny_mini_epoch105.pth
+top1 ==> Prediction is: dalmatian possibility: 100.000%
+top3 ==> Top 3 Predictions:
+    1. dalmatian - 100.000%
+    2. malamute - 0.000%
+    3. African_hunting_dog - 0.000%
+this image true class is dalmatian
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_3cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_5cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_8cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_10cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_14cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_18cluster.png
+==> Generated image is saved to: images/cluster_vis/CLUA_tiny/n0211034100000702_right/all_stages_24cluster.png
